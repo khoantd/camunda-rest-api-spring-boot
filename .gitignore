@@ -10,6 +10,11 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+target/
+
+camunda-h2-database.mv.db
+camunda-h2-database.trace.db
+
 # Package Files #
 *.jar
 *.war
